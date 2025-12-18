@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Visual Studio
+.vs/
