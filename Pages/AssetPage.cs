@@ -1,7 +1,4 @@
 using Microsoft.Playwright;
-using System;
-using System.Threading.Tasks;
-
 namespace PlaywrightTests.Pages
 {
     public class AssetPage
